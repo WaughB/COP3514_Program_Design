@@ -17,3 +17,16 @@ Week 4 Project List:
 Week 5 Project List:
   replace2: Prompts the User to enter a three-digit integer and then replace each digit by the sum of that digit plus 6 modulus 10. If the integer entered is less than 100or greater than 999, the program outputa an error message and aborts the program. Then swaps the first and last digit of the integer.
   barcode2: Displays a barcode in binary. 
+  
+Week 6 Project List:
+  extract: Extracts the string in a University URL after www. and before .edu.
+  numbers: Takes a command-line argument of ten integers and displays either the largest or smallest integer.
+  
+Week 7 Project List:
+  phone_numbers: Translates seven letter words to phone numbers from a file. 
+  
+Week 8 Project List:
+  product: Reads the input from sales.txt and then sorts the file. 
+
+Week 10 Project List: 
+  dogs: Maintains the record for an dog hospital. Can create entries for a dog and its information, can search for a dog, print out its information, and clear the information about the dogs. 
